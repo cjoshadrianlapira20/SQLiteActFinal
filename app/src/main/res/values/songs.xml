@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Creed">
+        <item>One Last Breath</item>
+        <item>My Sacrifice</item>
+        <item>With Arms Wide Open</item>
+        <item>Higher</item>
+        <item>My Own Prison</item>
+    </string-array>
+    <string-array name="Franco">
+        <item>Better Days</item>
+        <item>Castaway</item>
+        <item>Mario</item>
+        <item>Merengue</item>
+        <item>Song For The Suspect</item>
+    </string-array>
+    <string-array name="Incubus">
+        <item>Drive</item>
+        <item>The Warmth</item>
+        <item>Pardon Me</item>
+        <item>Dig</item>
+        <item>Wish You Were Here</item>
+    </string-array>
+    <string-array name="ThreeEleven">
+        <item>Amber</item>
+        <item>Down</item>
+        <item>Beautiful Disaster</item>
+        <item>All Mixed Up</item>
+        <item>Come Original</item>
+    </string-array>
+</resources>
